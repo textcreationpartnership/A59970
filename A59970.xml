@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mother Shiptons Christmas carrols with her merry neighbors also a description of her person, with a witty dialogue between Roast-beef, Mince-pye, and Plumb-pottage, contending for superiority with the verdict of Strong-beer, their moderator there upon.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59970</idno><idno type="EEBO-CITATION">31355486</idno>
+  <idno type="VID">110496</idno>
+  <idno type="EEBO-PROQUEST">2240856511</idno>
+  
+            <idno type="STC">Wing S3442</idno>
+            <idno type="STC">ESTC R41519</idno>
+            <idno type="OCLC">31355486</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59970)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110496)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1753:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mother Shiptons Christmas carrols with her merry neighbors also a description of her person, with a witty dialogue between Roast-beef, Mince-pye, and Plumb-pottage, contending for superiority with the verdict of Strong-beer, their moderator there upon.</title>
+               </titleStmt>
+               <extent>[1], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by P. Lillicrap for William Harris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Shipton, --  Mother --  (Ursula) --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110496:1"/>
+            <p>Mother SHIPTONS Christmas CARROLS, With her Merry Neighbours.</p>
+            <p>Also a description of her person with a witty Dialogue between Roast-Beef, Mince-Pye, and Plumb-Pottage. Contending for superiority with the Verdict of Strong-Beer their Moderator there upon.</p>
+            <lg>
+               <l>Here <hi>Mother Shipton</hi> doth her self present</l>
+               <l>In pleasant Carrols for your merryment,</l>
+               <l>'Tis a strange case if she doth not appear</l>
+               <l>Handsome enough with such good Christmas cheer,</l>
+               <l>Roast-Beef, Mince-Pye, Plumb-Pottage, such sweet stuff</l>
+               <l>Prophesie choak her if she han't enough,</l>
+               <l>Read o're the Title, and what follows after</l>
+               <l>'Twil fill your heart with joy, your tongue with laughter.</l>
+            </lg>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>P. Lillicrap</hi> for <hi>William Harris</hi> in <hi>Dunnings alley</hi> in <hi>Bishops<g ref="char:EOLhyphen"/>gate-street,</hi> 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="miscellany">
+            <pb n="1" facs="tcp:110496:2"/>
+            <head>Mother Shiptons Christmas Carrols.</head>
+            <div type="mock_description">
+               <p>
+                  <hi>MOther Shipton,</hi> being a woman of very strange parts, and monstrous abi<g ref="char:EOLhyphen"/>lities, I think it would not be amiss to give you first of all a full descrip<g ref="char:EOLhyphen"/>tion of her outward shape and lineaments of body, as well as the inward manner of soul, she had▪ Which I would most willingly do in verse, but that I fear her Nose is so long, 'twil hardly come within the Compass of six feet. However i'l try.</p>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>Her Hair of brindled colour'd hue</l>
+                  <l>in Snaky curle<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> did dangle,</l>
+                  <l>Which might the State a kindness do</l>
+                  <l>made in<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Ropes▪ to strangle.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Her Beetle Brows forget I not</l>
+                  <l>nor Teeth as white as Amber,</l>
+                  <l>Her Face did shine like pewter pot</l>
+                  <l>belonging to the Chamber.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Her Sawcer Eyes of Cannon bore,</l>
+                  <l>were big ten times as thine,</l>
+                  <l>Like powdering Tubs still running o're</l>
+                  <l>or full of standing brine.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>But shall I speak as to her snout</l>
+                  <l>the matter in't, and fat on't;</l>
+                  <l>Which like a Hunters Horn stood out</l>
+                  <l>a man might hang his hat on't.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Her cheeks as tough as sole of shoe</l>
+                  <l>like dirty whited wall,</l>
+                  <l>Her lips they were of azure blew</l>
+                  <l>but Neck faith none at all.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Her Head and Shoulders so well met</l>
+                  <l>so lovingly agreed,</l>
+                  <l>They would have nothing part them yet</l>
+                  <l>nor never will indeed.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Her Breasts so tempting and so fair</l>
+                  <l>like two old foot-balls look.</l>
+                  <l>Which you m<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t see through smock so rare</l>
+                  <l>and black as the pot-hook.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Her Waste was slender, but her Bum</l>
+                  <l>rises so high you'd say,</l>
+                  <l>Each Buttuck seem'd a Kettle drum</l>
+                  <l>stuft with a Truss of Hay.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>I tell thee too, if not too late</l>
+                  <l>she has such a thundring voice.</l>
+                  <l>Would make the deaf man thank his fate</l>
+                  <l>that frees him from her noise.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>But shall I speak (truth on my soul)</l>
+                  <l>a word unto her mouth,</l>
+                  <l>Well stretcht it goes from Pole to Pole</l>
+                  <l>and so from <hi>North</hi> to <hi>South.</hi>
+                  </l>
+               </lg>
+               <lg n="11">
+                  <pb n="2" facs="tcp:110496:2"/>
+                  <head>11.</head>
+                  <l>But for those parts which are unseen</l>
+                  <l>I cannot well express,</l>
+                  <l>'Twould fright the Devil himself, I ween</l>
+                  <l>to see her naktdness.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Then for her feet (as I am loath</l>
+                  <l>to tell all like a sloven)</l>
+                  <l>Upon a Book i'l take my oath</l>
+                  <l>and swear, they both are Cloven.</l>
+               </lg>
+               <p>By this you may partly guess her outward splendour and comeliness, being in her time the wonder of the age, as well for her outward lineaments as those inward and choice endowments of her understanding and knowledge.</p>
+            </div>
+            <div type="story">
+               <p>She was also a woman of a very free disposition, for having pick'd up a little Mony to be merry with at <hi>Christmas,</hi> she very lovingly invites half a dozen of her nei<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<g ref="char:EOLhyphen"/>bors to partake of it. Good old women they were that loved the sinews of a good leg of Beef well boyled, Mince-pye, and Plumb-pottage, and such tender food as would down without chewing, for alas! one knavish bone might have shewed them a trick for all their Teeth.</p>
+               <p>Being all met together and set to it, they plyed their business without much muttering, till at length they began to sigh, not for heaviness of heart but fulness of belly, nor for sorrow for sins, but because they could eat no more. Poor Souls! I pittyed them. But <hi>Mother Shipton</hi> b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing very pleasant, was resolved they should not long continue in their dumps, for she was fully set upon a merry device to make her guest <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olt down their dinner. After this manner.</p>
+               <p>She by her Art (as she had very good skill in Witchery) composed a Powder which would make all that took it dance such a Jig, as was never seen before in <hi>Yook-shire</hi> It had also a most powerful charm in it to make one fart, and that with such report and sound, as all the Town should be admirers of its operation. This Powder she infused into a Pitcher of good <hi>York-shire</hi> stin-goe, which the old women caronzed at no aim, and tippled their Noses most plenteously, till at length the potion began to work, and one unawares let go such a Hummer, as set all the rest a twittering, that presently all of them in like manner began to discharge with such resolution as if they had been about battering a fort.</p>
+               <p>
+                  <hi>Mother Shipton</hi> seeing the efficacy of her Powder began to be very pleasant, &amp; told them they plaid their Cards well sure by reason of their trumping about so round<g ref="char:EOLhyphen"/>ly. Still they held on till one of them, what with overstraining her self to exceed her fellows, and excess of laughter gave such a crack as made all the neighborhood ring again, and therewithal so bespatterd her linning, as made her cry out O fie! I have plaid the Beast, 'twas never so with me before. And to say truth she was but in a shitten condition.</p>
+               <p>Her good neighbors pittied, but could not spare time to cleanse her bung, they were so employed And now the wind began to be so much in their faces, they hear<g ref="char:EOLhyphen"/>tily wished themselves in the midst of the cold frosty fields, so they might but have the opportunity of taking the fresh air. Which <hi>Mother Shipton</hi> perceiving, and ha<g ref="char:EOLhyphen"/>ving a long time had an intention to do them some discredit, by reason of some falling out between her and them concerning a washing Tub, they had borrowed of her and an old Broom, was resolved now to quit scores with them and therefore opening the door, and willing them to walk into the fresh air, she by her art cau<g ref="char:EOLhyphen"/>sed them to think they were really up to the Bellies in water, and thereupon they striving to save their best Holyday cloaths pulled them up as high as they could, and shewed all for nothing to all the Town as they went homeward, which made such
+<pb n="3" facs="tcp:110496:3"/> laughter to all that beheld them, that they followed them shouting and throwing rotten Eggs and Apples at their arses all the way they went.</p>
+               <p>When they were came home they were presently wakened out of their dream, for their husbands enraged at the disgrace their wives had brought upon them, well favour'dly be laboured their Nocks and quickly cured them of their windy di<g ref="char:EOLhyphen"/>stempers▪ to their much sorrow and discredit.</p>
+            </div>
+            <div type="story">
+               <head>Another.</head>
+               <p>One time Mother <hi>Shipton</hi> meeting a young Gallant riding along the Road, she begged Alms of him, who at first denying her, she began to importune him much, with that he gave her something, and being merrily disposed let a fart. <hi>Shipton</hi> re<g ref="char:EOLhyphen"/>plyed bless you sir do you sneeze backward, I see 'tis an ill wind that blows no bo<g ref="char:EOLhyphen"/>dy good.</p>
+            </div>
+            <div type="story">
+               <head>Another.</head>
+               <p>Another time she meeting with an old rich userer with a bag of money under his Arm, she beg<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d a penny of him, who told her she looked to like a witch. At which <hi>Shipton</hi> being much displeased, was resolv'd to serve him a trick for his jeer. And one day watching him as he was looking out at his Chamber window into the Market, she by her cunning caused an artificial pair of horns to be grafted on his forehead, so that he could not draw his head in again, which put him into such a rage, that he began to cry out, at which all the people began to gather about to deride him in such sort that the old userer was almost out of his wits and at length seeing no re<g ref="char:EOLhyphen"/>medy he was resolved to have the horns sawed of, which were no sooner touched with the saw, but they fell off, and were taken by the multitude and fastned to the Town Cross, with this superscription.</p>
+               <lg>
+                  <l>Old Cluth the Userers Horns these be</l>
+                  <l>set up in honor of his name,</l>
+               </lg>
+               <lg>
+                  <l>'Tis fit his horns exalted be</l>
+                  <l>to his never dying Fame.</l>
+               </lg>
+            </div>
+            <div type="story">
+               <head>Another.</head>
+               <p>A Lawyer that came to the Assizes having somewhat affronted <hi>Shipton</hi> one day at the Bar▪ put some snuff to his Nose, and presently he fell fast a sleep, and when it came to his turn to move, his Clyent jog'd him. The Lawyer on che sudden waking wraps out a great oath, and swore diamond was Trump, which put the court into a great laughter and the Lawyer perceiving his disgrace went presently out of the court with much shame and confusion.</p>
+            </div>
+            <div type="story">
+               <head>Another.</head>
+               <p>On a great Holy-day when their was a great Feast at one of the City Halls. The Lord Mayor and all his Aldermen were assembled, intending to feast heartily and be very merry, and accordingly they sate themselves in Order, and the first course was brought to the Table. Many delicates there were and much variety of all sorts. But Mother <hi>Shipton</hi> hearing of this hastens to the Hall resolving one way or other to participate of their cheer, but getting in and seeing them ready to fall too't, begs at one Aldermans elboe and t'ther, but none of them minded her so that she was half mad to see so much good fare stand on the Table ready to be devoured, and she like to have no sha<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thereof at last run'd into the middle of the Hall, and squot<g ref="char:EOLhyphen"/>ting down, screekt out aloud, whereat a whole legion of devils instantly rose among them with terribie thunder and lightning, who seized on every dish of meat and walking orderly out of the Hal with <hi>Shipton</hi> before, at the gate all vanished leaving these verses thereupon.</p>
+               <lg>
+                  <l>Our Mayor and Aldermen</l>
+                  <l>Were gathered in this Hall</l>
+                  <l>To have a feast</l>
+                  <l>Worth somewhat at least</l>
+                  <l>But I shoud ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>trick for't all.</l>
+               </lg>
+               <lg>
+                  <l>Poor Shipton beg'd amain</l>
+                  <l>But they poor Ship<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on sc<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Alas their cheer</l>
+                  <l>Cost them full deer</l>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut faith they had little oft.</l>
+               </lg>
+               <p>The<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and the like pranks she plaid in the twelve merry days of <hi>Christmas,</hi> but
+<pb n="4" facs="tcp:110496:3"/> all the year after so<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hutch'd at home like a Witch in a Cell, fit for no company but a hum drum Devil of her own hatching.</p>
+            </div>
+            <div type="dialogue">
+               <head>Here followeth a Dialogue.</head>
+               <p>
+                  <hi>Between</hi> Roast Beef, Mince-pie, <hi>and</hi> Plumb-pottage. <hi>contending for supe<g ref="char:EOLhyphen"/>riority with the verdict of</hi> Strong beer, <hi>the</hi> in <hi>moderator th<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pon.</hi>
+               </p>
+               <sp>
+                  <speaker>Strong B.</speaker>
+                  <p>Now Gentlemen this is the time, and this the place you have appoin<g ref="char:EOLhyphen"/>ted for your disputation: and having chosen me for your Moderator▪ I advise you (and good counsel too I hold it) to do nothing rashly, but first lets drink▪</p>
+               </sp>
+               <sp>
+                  <speaker>All.</speaker>
+                  <p>We relish it▪</p>
+                  <stage>They drink.</stage>
+               </sp>
+               <sp>
+                  <speaker>Strong B.</speaker>
+                  <p>And now having liquored your lips, pipe on and spare not.</p>
+               </sp>
+               <sp>
+                  <speaker>Plumb pot.</speaker>
+                  <p>Why then Mr. <hi>Beer</hi> craving your good attention, I declare and hope to prove it is my property to preceed, Mr. <hi>Mince-pie</hi> and <hi>R<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ast beef,</hi> and ought in any sound opinion to be the first dish on the Table, and my p<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ea for it is, <hi>Antient Custome,</hi> which I hope may suffice without any further reasons.</p>
+               </sp>
+               <sp>
+                  <speaker>Mince-pie.</speaker>
+                  <p>Pish, never tell me of your Reasons: your Reasons are not in Date, and therefore, stark nought, and as for Custome, I say 'tis more Customary to pre<g ref="char:EOLhyphen"/>fer Pye before Pottage, ergo your Custome is not worth a Cucumber.</p>
+               </sp>
+               <sp>
+                  <speaker>Roast B.</speaker>
+                  <p>Nay then Gantlemen room for Horns▪ though I have been silent all this while, don't you think to rule the Roast Mr. <hi>Beer,</hi> consider I am <hi>Beef,</hi> a good substantial food: a dish for a Prince, and indeed (as 'tis Recorded) the King of meats▪</p>
+               </sp>
+               <sp>
+                  <speaker>Plumb-<hi>P.</hi>
+                  </speaker>
+                  <p>Gravely spoken.</p>
+               </sp>
+               <sp>
+                  <speaker>Strong B.</speaker>
+                  <p>In truth so it is, and I think it fit to exalt the Horn.</p>
+               </sp>
+               <sp>
+                  <speaker>R. B.</speaker>
+                  <p>And not without cause considering the Dignity his Royal Majesty King <hi>James</hi> was pleased to confer on me, when one day coming down into his Kitchin, I gave him such satisfaction that he daign'd me with the Honour of Knighthood, with the title of <hi>Sir Loyne,</hi> and therefore claim precedency before these mincing Mimicks.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>P.</hi> P▪</speaker>
+                  <p>But pray <hi>Beef,</hi> was you ever in this <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ovial time of <hi>Christma<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> prefer'd before me.</p>
+               </sp>
+               <sp>
+                  <speaker>Mince P.</speaker>
+                  <p>O<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ever gave that pleasing sati<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>faction or delight to Ladies, or any sort of Persons as I have done.</p>
+               </sp>
+               <sp>
+                  <speaker>R. B.</speaker>
+                  <p>Mr. sweet tooth hold you your prating I always had the upper hand of you.</p>
+               </sp>
+               <sp>
+                  <speaker>M. <hi>P.</hi>
+                  </speaker>
+                  <p>Tell not me of upper hand nor underhand I say I am a dish full of dainty..</p>
+               </sp>
+               <sp>
+                  <speaker>Roast B.</speaker>
+                  <p>Yes for old women that have no teeth: besides you come but once a year, but I am in season at all times▪ You but please Children and Fools, but I am in repute with all sorts of what quality soever.</p>
+               </sp>
+               <sp>
+                  <speaker>Plumb P.</speaker>
+                  <p>Pray Gentlemen let me speak.</p>
+               </sp>
+               <sp>
+                  <speaker>Roast B.</speaker>
+                  <p>Prethee what can'st say? nothing: but mutter as if you had plums in your mouth, why thou art nothing of thy se<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f, whence art thou deriv'd or what's thy pedegree? nothing but a little water, and fitting for nothing but to cleanse the dishes after me, were it not for the goodness of <hi>Beef</hi> that gives the being by its savor</p>
+               </sp>
+               <sp>
+                  <speaker>Strong B.</speaker>
+                  <p>
+                     <hi>Mince pie,</hi> me thinks thou should'st bear up man, 'slid for all their talking thou makest their teeth water sometimes at thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Roast B.</speaker>
+                  <p>And we are much obleig'd to him for it, for making our teeth rotten.</p>
+               </sp>
+               <sp>
+                  <speaker>Mince P.</speaker>
+                  <p>You are a stinking peice of Beef to abuse me so, I make you rotten?</p>
+               </sp>
+               <sp>
+                  <speaker>Roast B.</speaker>
+                  <p>Yes sweet Sir, that you do,</p>
+               </sp>
+               <sp>
+                  <speaker>Mince P.</speaker>
+                  <p>Tough Sir but I do not.</p>
+               </sp>
+               <sp>
+                  <speaker>Strong B.</speaker>
+                  <p>Nay lets have no quarrelling good Mr. <hi>Beef,</hi> pray Mr. <hi>Pye.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Roast B.</speaker>
+                  <p>'Slid tempt me a little more, I shall fall foul on you.</p>
+               </sp>
+               <sp>
+                  <speaker>Mince P.</speaker>
+                  <p>If you doe, I'm sure you, you'l shew foul play and bite me, but il<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> maintain my honour in spight of thy teeth.</p>
+               </sp>
+               <sp>
+                  <speaker>Roast B.</speaker>
+                  <p>Le<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> me come at him ile crumble him ile warrant you</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <pb n="5" facs="tcp:110496:4"/>Strong B.</speaker>
+                  <p>Nay good Beef be not so hot, Let him alone a little till he is colder, then you may fasten on him at more advantage.</p>
+               </sp>
+               <sp>
+                  <speaker>Mince P.</speaker>
+                  <p>I shall pull down his fat sides no doubt.</p>
+               </sp>
+               <sp>
+                  <speaker>Strong B.</speaker>
+                  <p>Come Gentlemen i'm sor<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y to see you at variance, pray let me mo<g ref="char:EOLhyphen"/>derate the business between you, why should freinds fall out? Come what say ye will you all stand to my award.</p>
+               </sp>
+               <sp>
+                  <speaker>All.</speaker>
+                  <p>With all our hearts? Eloquent <hi>Strong Beer!</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Strong B.</speaker>
+                  <p>Then first for you Mr. <hi>Plumb Pottage:</hi> Since it hath been so long a Custome for you to be first ushered to the Table, we shall continue it still to you during the time of <hi>Christmas,</hi> so that you do not take it ill, that some at other times make use of you last of all, as is sometime necessary to fill up the <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hinks. And for you Mr. <hi>Mince-pye,</hi> for the time of <hi>Christmas</hi> also are to be the Senior in all mens mouths, but ever after to disappear and vanish. As the Prince at <hi>Lincolns Inn</hi> was <hi>dominus factotum</hi> for twelve days but afterwards shrunk into his former peasantry for ever after. So must you yeild the preheminence to Mr. <hi>Roast Beef,</hi> as royal for all the year after. What say ye, are ye all satisfied!</p>
+               </sp>
+               <sp>
+                  <speaker>All.</speaker>
+                  <p>O very well, very well: Rhetorical <hi>Strong Beer!</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Strong B.</speaker>
+                  <p>Come on then, then lets end all differences in a cup of Strong Bub, and spend the time in singing and carouzing a health to all that love Plumb-Pottage, Mince pye, Roast-Beef and Strong Beer.</p>
+               </sp>
+               <div type="song">
+                  <head>The Song.</head>
+                  <lg n="1">
+                     <head>1.</head>
+                     <l>Of lusty brown Beer</l>
+                     <l>I joy for to hear</l>
+                     <l>But a pox of your White-wine and Claret</l>
+                     <l>I hate for to hear</l>
+                     <l>Of such pittiful geer</l>
+                     <l>For a barrel-ful's not worth a Carret.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>Then bub with good courage</l>
+                     <l>'Tis season'd wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h Burrage</l>
+                     <l>Their's nothing more wholesome and merry</l>
+                     <l>Though our cloaths be but thin</l>
+                     <l>It warms us within</l>
+                     <l>And makes us sing hey down a derry.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>3.</head>
+                     <l>There's nothing above it</l>
+                     <l>He's a fool does not love it,</l>
+                     <l>At <hi>Christmas</hi> it maketh good cheer,</l>
+                     <l>Nay more to invite you</l>
+                     <l>And still to delight you</l>
+                     <l>Tis as plentiful all the whol<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> year.</l>
+                  </lg>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110496:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
